@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Anica! 👋
+
+#### _Computer Science Student at Univesity of British Columbia_ 
+
 
 <!--
 **Anica1004/Anica1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
